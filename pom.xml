@@ -55,7 +55,6 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <!-- Jar file entry point -->
                             <mainClass>sample.Main</mainClass>
                         </manifest>
                     </archive>
